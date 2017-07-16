@@ -21,7 +21,7 @@ build:
 
 ### gulpfile.js
 
-```
+```js
 const gulp = require('gulp');
 const packager = require('electron-packager');
 const gutil = require('gulp-util');
